@@ -1,0 +1,2 @@
+# CryptographySAFER
+Алгоритм кодирования - SAFER
